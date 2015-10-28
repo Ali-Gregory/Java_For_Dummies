@@ -8,6 +8,10 @@ public class Main {
 //		GuessingGame.main(args);
 //		CheckPassword.main(args);
 //		Authenticator.main(args);
-		Authenticator2.main(args);
+//		Authenticator2.main(args);
+//		JustSwitchIt.main(args);
+//		JustSwitchIt2.main(args);
+//		FallingForYou.main(args);
+		GuessAgain.main(args);
 	}
 }
