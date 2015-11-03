@@ -1,3 +1,5 @@
+import Part_2.Chapter_6.AlsAllWet;
+
 
 public class Main {
 	public static void main(String args[]) {
@@ -12,6 +14,7 @@ public class Main {
 //		JustSwitchIt.main(args);
 //		JustSwitchIt2.main(args);
 //		FallingForYou.main(args);
-		GuessAgain.main(args);
+//		GuessAgain.main(args);
+		AlsAllWet.main(args);
 	}
 }
