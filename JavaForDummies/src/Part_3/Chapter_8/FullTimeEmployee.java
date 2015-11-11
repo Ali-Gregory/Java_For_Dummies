@@ -1,4 +1,4 @@
-package Part_3;
+package Part_3.Chapter_8;
 
 //Listing 8-3
 public class FullTimeEmployee extends Employee{

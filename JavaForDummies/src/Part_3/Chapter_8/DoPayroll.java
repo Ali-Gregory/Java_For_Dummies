@@ -1,4 +1,4 @@
-package Part_3;
+package Part_3.Chapter_8;
 
 import java.util.Scanner;
 import java.io.File;

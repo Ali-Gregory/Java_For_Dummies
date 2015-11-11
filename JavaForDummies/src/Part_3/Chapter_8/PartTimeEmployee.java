@@ -1,4 +1,4 @@
-package Part_3;
+package Part_3.Chapter_8;
 //Listing 8-5
 public class PartTimeEmployee extends Employee{
 	private double hourlyRate;

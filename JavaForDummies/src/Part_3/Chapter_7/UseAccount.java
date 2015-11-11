@@ -1,4 +1,4 @@
-package Part_3;
+package Part_3.Chapter_7;
 
 import static java.lang.System.out;
 
