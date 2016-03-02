@@ -20,7 +20,7 @@ public class DoPayrollTypeF {
 		ptEmployee.setHourlyRate(7.53);
 		ptEmployee.cutCheck(ptEmployee.findPaymentAmount(50));
 		
-		PartTimeEmployee ptoEmployee = new PartTimeEmployee();
+		PartTimeWithOver ptoEmployee = new PartTimeWithOver();
 		
 		ptoEmployee.setName("Steve Surace");
 		ptoEmployee.setJobTitle("Driver");
